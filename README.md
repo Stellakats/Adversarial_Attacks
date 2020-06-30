@@ -1,5 +1,9 @@
-# DD2424-project
-Deep learning in data science
+# Adversarial attacks
+
+Small pertrubations in inputs that are not noticeable for humans, can make inputs completely unrecognizable for deep neural networks, similar to optical illusions for humans. These are called adversarial attacks, and they can be transfered between networks; They can also be applied in real-world settings in the form of stickers or audio recordings. This is a problem for neural networks in safety-critical environments as well as an illustration of a lack of generalization capabilities. 
+
+In this project two methods of white-box adversarial attacks are tested: FGSM and PGD.
+This project was conducted as part of the DD2424 Deep Learning course in KTH Royal Institute of Technology. 
 
 ## Ovearleaf project
 https://www.overleaf.com/9578595952hnrxvvymqytp
